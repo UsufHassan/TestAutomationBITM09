@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22760e59-b238-4dce-9a6a-1065ee231ee8" name="Default Changelist" comment="" />
+    <list default="true" id="22760e59-b238-4dce-9a6a-1065ee231ee8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/BrowserSize/GetBrowserSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/BrowserSize/SetBrowserSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/OpenCart/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/OpenWebsite/OpenTestWebsite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Registration/TestRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chrom/Chromcomfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chrom/Chromcomfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chrom/Chromcomfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chrom/Chromcomfig.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +35,10 @@
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,27 +51,102 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/BrowserConfig/FirefoxConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="255">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chrom/Chromcomfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/OpenWebsite/OpenTestWebsite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/BrowserSize/GetBrowserSize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="64" lean-forward="true" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/BrowserSize/SetBrowserSize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#986#987#0" expanded="true" />
+                <element signature="e#1061#1062#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#813#814#0" expanded="true" />
+                <element signature="e#1101#1102#0" expanded="true" />
+                <element signature="e#1131#1132#0" expanded="true" />
+                <element signature="e#1169#1170#0" expanded="true" />
+                <element signature="e#1198#1199#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/OpenCart/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4138#4139#0" expanded="true" />
+                <element signature="e#4168#4169#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/chrom/Chromcomfig.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Registration/TestRegistration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="163">
+              <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -74,7 +158,7 @@
               <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
               <folding>
                 <element signature="e#85#86#0" expanded="true" />
-                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,13 +173,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/Com/Rough/Verify.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/BrowserConfig/FirefoxConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OpenWebsite/OpenTestWebsite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/OpenWebsite/OpenTestWebsite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/BrowserSize/GetBrowserSize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/BrowserSize/SetBrowserSize.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/chrom/Chromcomfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/OpenCart/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Registration/TestRegistration.java" />
       </list>
     </option>
   </component>
@@ -123,13 +216,16 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,6 +264,15 @@
               <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Registration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomationBITM09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -177,9 +282,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/Registration" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -189,6 +295,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\TestAutomation\src\main\java\com\Registration" />
       <recent name="G:\TestAutomation\src\main\resources" />
     </key>
   </component>
@@ -204,7 +311,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Chromcomfig">
+  <component name="RunManager" selected="Application.TestRegistration">
     <configuration name="Chromcomfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chrom.Chromcomfig" />
       <module name="TestAutomation" />
@@ -218,12 +325,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirefoxConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.BrowserConfig.FirefoxConfig" />
+    <configuration name="GetBrowserSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.BrowserSize.GetBrowserSize" />
       <module name="TestAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.BrowserConfig.*" />
+          <option name="PATTERN" value="com.BrowserSize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +338,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Verify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Com.Rough.Verify" />
+    <configuration name="LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OpenCart.LoginTest" />
       <module name="TestAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Com.Rough.*" />
+          <option name="PATTERN" value="com.OpenCart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenTestWebsite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OpenWebsite.OpenTestWebsite" />
+      <module name="TestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.OpenWebsite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRegistration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Registration.TestRegistration" />
+      <module name="TestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Registration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,9 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestRegistration" />
+        <item itemvalue="Application.LoginTest" />
+        <item itemvalue="Application.GetBrowserSize" />
+        <item itemvalue="Application.OpenTestWebsite" />
         <item itemvalue="Application.Chromcomfig" />
-        <item itemvalue="Application.FirefoxConfig" />
-        <item itemvalue="Application.Verify" />
       </list>
     </recent_temporary>
   </component>
@@ -262,30 +397,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631590386866</updated>
-      <workItem from="1631590391075" duration="5691000" />
+      <workItem from="1631590391075" duration="6313000" />
+      <workItem from="1632028174802" duration="15050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5691000" />
+    <option name="totallyTimeSpent" value="21363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14872068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
@@ -293,32 +423,27 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" weight="0.32995737" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" weight="0.32995737" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/Com/Rough/Verify.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#106#107#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -326,27 +451,103 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Com/Rough/Verify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/BrowserConfig/FirefoxConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/OpenWebsite/OpenTestWebsite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/BrowserSize/GetBrowserSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="64" lean-forward="true" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/BrowserSize/SetBrowserSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1169#1170#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/chrom/Chromcomfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/OpenCart/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4138#4139#0" expanded="true" />
+            <element signature="e#4168#4169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Registration/TestRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
         </state>
       </provider>
     </entry>
